@@ -1,4 +1,4 @@
-<a href="https://ibb.co/mh2drGg"><img src="https://i.ibb.co/Yf1J43w/Among-Us-Crewmate-No-Suit-Fan.webp" alt="Among-Us-Crewmate-No-Suit-Fan" border="0" width="100%"></a>
+<a href="https://github.com/cewmates-1"><img src="https://i.ibb.co/Yf1J43w/Among-Us-Crewmate-No-Suit-Fan.webp" alt="Among-Us-Crewmate-No-Suit-Fan" border="0" width="100%"></a>
 # **Crewmates**
 Welcome to Crewmates </br>
 How do you get kids to eat candy?"… ;-) Hold it loosely when offering, so you don't lose any fingers.
@@ -40,6 +40,11 @@ How do you get kids to eat candy?"… ;-) Hold it loosely when offering, so you 
 <a href="https://github.com/cewmates-1/showcase-landing/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=cewmates-1/showcase-landing" />
 </a>
+
+
+# Project Plan
+
+<a href="https://github.com/cewmates-1"><img src="https://pbs.twimg.com/media/ByWp3cbCYAAIFjJ.jpg:large" alt="Bro Down" border="0" ></a>
 
 # About Us
 We are Cremates with energy💪 and passion ❤.
