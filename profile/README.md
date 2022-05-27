@@ -1,4 +1,4 @@
-<a href="https://ibb.co/mh2drGg"><img src="https://i.ibb.co/Yf1J43w/Among-Us-Crewmate-No-Suit-Fan.webp" alt="Among-Us-Crewmate-No-Suit-Fan" border="0"></a>
+<a href="https://ibb.co/mh2drGg"><img src="https://i.ibb.co/Yf1J43w/Among-Us-Crewmate-No-Suit-Fan.webp" alt="Among-Us-Crewmate-No-Suit-Fan" border="0" width="100%"></a>
 # **Crewmates**
 Welcome to Crewmates </br>
 How do you get kids to eat candy?"… ;-) Hold it loosely when offering, so you don't lose any fingers.
