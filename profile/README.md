@@ -11,7 +11,7 @@ How do you get kids to eat candy?"… ;-) Hold it loosely when offering, so you 
     <td align="center">
       <a href="https://github.com/abdullahmujahidali"><img src="https://avatars.githubusercontent.com/u/48271080?v=4" width="100px;">
         <br>
-        <b>Abdullah Mujahid Ali</b>
+        <b>Abdullah Mujahid</b>
       </a>
       <br>
       <sub>18</sub>
