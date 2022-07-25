@@ -3,7 +3,7 @@
 Welcome to Crewmates </br>
 How do you get kids to eat candy?"… ;-) Hold it loosely when offering, so you don't lose any fingers.
 
-## 👨🏻‍🏫 Cewmates OG!
+## 👨🏻‍🏫 Crewmates OG!
 ### Right people Right Spirit and a couple inside jokes
 
 <table>
