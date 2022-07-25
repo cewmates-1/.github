@@ -25,9 +25,9 @@ How do you get kids to eat candy?"… ;-) Hold it loosely when offering, so you 
       <sub>16</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/Hameezr"><img src="https://avatars.githubusercontent.com/u/59111588?v=44" width="100px;">
+      <a href="https://github.com/Maham-Anwaar"><img src="https://avatars.githubusercontent.com/u/36509445?v=4" width="100px;">
         <br>
-        <b>Hameez Rizwan</b>
+        <b>Maham Anwar</b>
       </a>
       <br>
       <sub>17</sub>
